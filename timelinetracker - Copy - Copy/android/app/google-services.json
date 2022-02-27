@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304660276675",
+    "project_id": "timelinetracker-7cecd",
+    "storage_bucket": "timelinetracker-7cecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304660276675:android:5b7d70c37630780a1fc976",
+        "android_client_info": {
+          "package_name": "com.example.timelinetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304660276675-7ij5hqatjk0tuv8nlbi9b5lr7cv78inf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxdDlm6_6L2Q4yjzwMcPXVnYzzvsiikY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304660276675-7ij5hqatjk0tuv8nlbi9b5lr7cv78inf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
